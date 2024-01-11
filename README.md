@@ -31,4 +31,4 @@ The overall idea of this application is for the user to be able to track job app
 ## My initial diagram laying out the database structure:
 ![screenshot of an ER Diagram of my database](./job_search_ERD.png)
 
-
+## [Link to GitHub Repo](https://github.com/kristofer11/job-search-api/settings)

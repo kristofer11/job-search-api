@@ -28,5 +28,7 @@ The overall idea of this application is for the user to be able to track job app
 2. I chose to use an ORM because I like coding in Python more than raw SQL. Even though it is an abstraction of the SQL queries that are being made, it feels more natural to me.
 3. In the future I will build a frontend that uses this API. There is a lot that needs to be amended before that is a possibility such as: tables that store other kinds of inquiries besides applications, validation and authentication. 
 
+## My initial diagram laying out the database structure:
+![screenshot of an ER Diagram of my database] (./job_search_ERD.png)
 
 
